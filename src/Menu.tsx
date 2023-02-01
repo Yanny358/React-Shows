@@ -9,7 +9,7 @@ export default function Menu(){
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item"> 
                             <NavLink className="nav-link" to="/genres">
-                                Genressss
+                                Genres
                             </NavLink>
                         </li>
                         <li className="nav-item"> 
